@@ -48,7 +48,7 @@ module.exports = {
      * @type {string}
      * @default "mongodb+srv://..."
      */
-    MONGODB_URI: process.env.MONGODB_URI || 'PAST YOUR MONGODB URL',
+    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://alixexadron7_db_user:7KrNRuZUrTNCF7lr@cluster0.vrbj5pv.mongodb.net/?appName=Cluster0',
 
     // ═══════════════════════════════════════════════════════════════════════
     //  🤖 BOT IDENTITY
